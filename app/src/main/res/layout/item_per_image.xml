@@ -7,7 +7,6 @@
     <ImageView
         android:id="@+id/img"
         android:scaleType="centerCrop"
-        android:background="@color/colorAccent"
         android:layout_width="35dp"
         android:layout_height="55dp" />
 

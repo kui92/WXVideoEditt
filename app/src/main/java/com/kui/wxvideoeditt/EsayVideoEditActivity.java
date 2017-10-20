@@ -77,6 +77,10 @@ public class EsayVideoEditActivity extends AppCompatActivity implements RangeBar
                 +File.separator+"test"+File.separator+str+File.separator;
         videoResutlDir= getExternalStorageDirectory().getAbsolutePath()
                 +File.separator+"test"+File.separator+"clicp";
+        File file=new File(parentPath);
+        if(!file.exists()){
+            file.mkdirs();
+        }
         rangeBar.setmTickCount(IMAGE_NUM+1);
         videoTime=UIUtil.getVideoDuration(videoPath);
         Log.i("onCreate","videoTime:"+videoTime);

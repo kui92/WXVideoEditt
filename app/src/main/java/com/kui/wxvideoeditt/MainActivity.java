@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         video= Environment.getExternalStorageDirectory().getPath()+ File.separator
-                +"test"+File.separator+"c.mp4";
+                +"test"+File.separator+"a.mp4";
 
     }
 
