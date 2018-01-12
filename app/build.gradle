@@ -30,5 +30,5 @@ dependencies {
     compile 'com.jakewharton:butterknife:7.0.1'
     compile 'com.android.support:recyclerview-v7:23.4.0'
     compile 'com.github.bumptech.glide:glide:3.7.0'
-    compile 'com.github.kui92:FFmpegLibrary:3.0'
+    compile 'com.github.kui92:FFmpegLibrary:3.2'
 }

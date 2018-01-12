@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WXVideoEditt.iml" filepath="$PROJECT_DIR$/WXVideoEditt.iml" />
+      <module fileurl="file://H:\AndroidTst\WXVideoEditt\WXVideoEditt.iml" filepath="H:\AndroidTst\WXVideoEditt\WXVideoEditt.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\AndroidTst\WXVideoEditt\app\app.iml" filepath="H:\AndroidTst\WXVideoEditt\app\app.iml" />
     </modules>
   </component>
 </project>
